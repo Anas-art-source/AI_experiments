@@ -1,3 +1,8 @@
+!pip uninstall fitz
+!pip uninstall PyMuPDF
+!pip install PyMuPDF
+
+
 import PyPDF2
 from PIL import Image
 import fitz 
